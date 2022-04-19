@@ -4,5 +4,8 @@ pipeline{
    stage("1"){
       echo "hello world"
    }
+   stage("2"){
+      echo "hello world"
+   }
 }
 }
