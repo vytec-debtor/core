@@ -1,4 +1,5 @@
 <project>
 <modelversion>1.0.0</model-version>
 <package>jar</package>
+<artifactory-id>debtor.jar</artifactory-id>
 </project>
